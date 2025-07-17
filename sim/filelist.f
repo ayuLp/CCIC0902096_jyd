@@ -1,0 +1,14 @@
+../src/mycpu/csr_regfile.v
+../src/mycpu/decoder.v
+../src/mycpu/execute.v
+../src/mycpu/fetch.v
+../src/mycpu/interrupt.v
+../src/mycpu/mem_access.v
+../src/mycpu/regfile.v
+../src/mycpu/myCPU.v
+../src/mycpu/top_ctrl.v
+../src/mycpu/write_back.v
+../src/soc/riscv_mem.v
+../src/soc/riscv_rib.v
+../src/soc/miniRV_SoC.v
+../src/tb/riscv_tb_top.v
